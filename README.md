@@ -7,11 +7,13 @@ AI Concepts is an all-in-one solution for streamlining everyday business tasks. 
 - Draft professional emails in seconds
 - Summarize lengthy documents effortlessly
 - Quickly access key information
+- Perform tasks on images, such as describing them or extracting text.
 
 ## Features
 
 1. **Text Assistant**: Summarize content from PDF files, web pages, or pasted text.
 2. **Communication Assistant**: Generate various types of business documents, including tax memos, engagement letters, and emails with different tones.
+3. **Vision Assistant**: Perform tasks on images, such as describing them or extracting text.
 
 ## Installation
 
