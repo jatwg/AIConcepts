@@ -41,6 +41,10 @@ WorkBuddy AI is an all-in-one solution for streamlining everyday business tasks.
    AZURE_OPENAI_ENDPOINT=your_endpoint
    AZURE_DEPLOYMENTNAME=your_deployment_name
    ```
+5. Run the Streamlit app:
+   ```
+   streamlit run 🏠 Home.py
+   ```
 
 ## Usage
 
