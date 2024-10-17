@@ -2,7 +2,7 @@
 
 ## Overview
 
-WorkBuddy AI is an all-in-one solution for streamlining everyday business tasks. This proof of concept application leverages advanced natural language processing to help you:
+AI Concepts is an all-in-one solution for streamlining everyday business tasks. This proof of concept application leverages advanced natural language processing to help you:
 
 - Draft professional emails in seconds
 - Summarize lengthy documents effortlessly
