@@ -1,6 +1,6 @@
 import streamlit as st
-import llmhelper as llm
-import emailhelper as eh
+from helpers import llmhelper as llm
+from helpers import emailhelper as eh
 from dotenv import load_dotenv
 
 load_dotenv()

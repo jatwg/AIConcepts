@@ -1,7 +1,7 @@
 import streamlit as st
-import llmhelper as llm
-import webhelper as wh
-import filehelper as fh
+from helpers import llmhelper as llm
+from helpers import webhelper as wh
+from helpers import filehelper as fh
 from dotenv import load_dotenv
 
 load_dotenv()

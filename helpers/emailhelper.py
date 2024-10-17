@@ -1,4 +1,4 @@
-import llmhelper as llm
+from helpers import llmhelper as llm
 
 # Function to generate email content
 def generate_email(user_prompt,tone):

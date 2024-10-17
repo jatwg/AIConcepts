@@ -1,7 +1,9 @@
 import streamlit as st
-
+import os
 st.title("🔡 AI POC")
 st.subheader("🚀 Introducing WorkBuddy AI: Your Intelligent Business Assistant 🚀")
+
+st.sidebar.write(f"weldcome : {os.getlogin()}")
 
 st.write("""
 WorkBuddy AI is your all-in-one solution for streamlining everyday business tasks. This revolutionary proof of concept empowers you to:
