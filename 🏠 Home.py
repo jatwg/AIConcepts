@@ -1,9 +1,10 @@
 import streamlit as st
-import os
+from helpers.sidebar import display_welcome
+
 st.title("🔡 AI POC")
 st.subheader("🚀 Introducing AI Concepts: Your Intelligent Business Assistant 🚀")
 
-st.sidebar.write(f"weldcome : {os.getlogin()}")
+display_welcome()
 
 st.write("""
 AI Concepts is your all-in-one solution for streamlining everyday business tasks. This revolutionary proof of concept empowers you to:

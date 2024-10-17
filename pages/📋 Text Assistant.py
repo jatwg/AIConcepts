@@ -3,13 +3,14 @@ from helpers import llmhelper as llm
 from helpers import webhelper as wh
 from helpers import filehelper as fh
 from dotenv import load_dotenv
+from helpers.sidebar import display_welcome
 
 load_dotenv()
 
 def main():
     st.title("📋 Text Assistant")
     st.write("Upload a PDF file, enter a URL, or paste text to get a summary.")
-
+    display_welcome()
     file_text = ""
 
     uploaded_file = st.file_uploader("Upload a PDF file to summarize", type="pdf")

@@ -2,12 +2,14 @@ import streamlit as st
 from helpers import llmhelper as llm
 from helpers import emailhelper as eh
 from dotenv import load_dotenv
+from helpers.sidebar import display_welcome
 
 load_dotenv()
 
 def main():
     st.title("👔 Communication Assistant")
     st.write("This AI helps you draft various documents based on the option you pick below.")
+    display_welcome()
 
     col1, col2 = st.columns(2)
     with col1:
