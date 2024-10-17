@@ -54,6 +54,7 @@ Run the Streamlit app:
 Navigate through the sidebar to access different features:
 - Text Assistant
 - Communication Assistant
+- Vision Assistant
 
 ## Docker Support
 
