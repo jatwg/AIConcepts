@@ -1,4 +1,4 @@
-# WorkBuddy AI: Your Intelligent Business Assistant
+# AI Concepts: Proof of Concepts for LLM Applications
 
 ## Overview
 
