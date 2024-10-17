@@ -71,15 +71,6 @@ To run the application using Docker:
 
 Access the application at `http://localhost:8501` in your web browser.
 
-## Project Structure
-
-- `🏠 Home.py`: Main entry point of the application
-- `pages/`: Contains individual pages for different features
-- `llmhelper.py`: Handles interactions with the Azure OpenAI API
-- `webhelper.py`: Provides web scraping functionality
-- `filehelper.py`: Handles file operations (PDF reading, image processing)
-- `emailhelper.py`: Generates email content based on user input and tone
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
