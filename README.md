@@ -17,14 +17,15 @@ WorkBuddy AI is an all-in-one solution for streamlining everyday business tasks.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/workbuddy-ai.git
-   cd workbuddy-ai
+   git clone https://github.com/jatwg/AIConcepts
+   cd AIConcepts
    ```
 
 2. Create a virtual environment and activate it:
    ```
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   # On MacOS, use source venv/bin/activate  
+   # On Windows, use `venv\Scripts\activate`
    ```
 
 3. Install the required packages:
@@ -56,12 +57,12 @@ To run the application using Docker:
 
 1. Build the Docker image:
    ```
-   docker build -t workbuddy-ai .
+   docker build -t aiconcepts .
    ```
 
 2. Run the container:
    ```
-   docker run -p 8501:8501 workbuddy-ai
+   docker run -p 8501:8501 aiconcepts
    ```
 
 Access the application at `http://localhost:8501` in your web browser.
