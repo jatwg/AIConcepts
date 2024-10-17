@@ -1,22 +1,22 @@
 import streamlit as st
 import os
 st.title("🔡 AI POC")
-st.subheader("🚀 Introducing WorkBuddy AI: Your Intelligent Business Assistant 🚀")
+st.subheader("🚀 Introducing AI Concepts: Your Intelligent Business Assistant 🚀")
 
 st.sidebar.write(f"weldcome : {os.getlogin()}")
 
 st.write("""
-WorkBuddy AI is your all-in-one solution for streamlining everyday business tasks. This revolutionary proof of concept empowers you to:
+AI Concepts is your all-in-one solution for streamlining everyday business tasks. This revolutionary proof of concept empowers you to:
 
 - Draft professional emails in seconds
 - Summarize lengthy documents effortlessly
 - Quickly access key information
 
-Leveraging advanced natural language processing, WorkBuddy AI understands your unique needs and delivers tailored results. Say goodbye to juggling multiple apps and spending hours on routine tasks. With WorkBuddy AI as your professional sidekick, you'll:
+Leveraging advanced natural language processing, AI Concepts understands your unique needs and delivers tailored results. Say goodbye to juggling multiple apps and spending hours on routine tasks. With AI Concepts as your professional sidekick, you'll:
 
 - Boost productivity
 - Reduce stress
 - Stay ahead in today's fast-paced business world
 
-Experience the future of work efficiency. Let WorkBuddy AI handle the details while you focus on what truly matters.
+Experience the future of work efficiency. Let AI Concepts handle the details while you focus on what truly matters.
 """)
