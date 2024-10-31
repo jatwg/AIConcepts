@@ -78,6 +78,3 @@ Access the application at `http://localhost:8501` in your web browser.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
